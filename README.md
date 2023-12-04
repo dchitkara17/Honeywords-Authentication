@@ -4,7 +4,7 @@
  I have used the COMB dataset which can be Downloaded from `https://downloadtorrentfile.com/hash/af2879db0fab2a32ba38d0491aa8fea5e29d3678?name=CompilationOfManyBreaches.7z`
 
  The make_data file takes the input file as the path of the data directory of the COMB dataset downlaoded above.
- Run the command
+  Run the command
  `g++ make_data.cpp -o data && ./data`
 
  Then run 
